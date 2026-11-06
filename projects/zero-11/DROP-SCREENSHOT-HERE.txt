@@ -1,0 +1,7 @@
+Drop a screenshot of the Zero 11 website in this folder and name it:
+
+    preview.jpg   (preview.png or preview.webp also work)
+
+The portfolio shows it on the project card and in the popup.
+Tip: a full-width screenshot of the top of the page looks best (about 1200 x 800).
+If no file is here, the card keeps its designed look.
